@@ -6,7 +6,5 @@ Soy un estudiante boliviano de Ingeniería de sistemas, me gustan los videojuego
 - 📓 Cursando Introducción a la programación, Ingles, arquitectura de computadoras y física.
 - 🌟 Espero poder ver el mundo con ojos diferentes y poder desarrollar programas que ayuden a las personas a optimizar el trabajo.
 - 💻 Me gustaria aprender c++, python y javascript
-
-
-       ![enter image description here](https://m4d0t5uk1.carrd.co/assets/images/image03.gif?v=88f9b810)
+![enter image description here](https://m4d0t5uk1.carrd.co/assets/images/image03.gif?v=88f9b810)
                                                
