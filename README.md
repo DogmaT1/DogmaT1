@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/110875360/183791334-2afd8ebf-4544-4d5b-b8a9-f2dc7102807f.png)
+![enter image description here](https://i.ibb.co/pvyqD3n/km-20220816-108-1660681660761.gif)
 ## Presentación
 Soy un estudiante boliviano de Ingeniería de sistemas, me gustan los videojuegos, el arte en general y me interesan todos los temas relacionados a la ciencia y las nuevas tecnologías.
 
